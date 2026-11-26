@@ -1,3 +1,3 @@
 # 업무이력 조회실
 
-Encrypted static application. The encrypted payload includes the application and its data snapshot. The access key is not stored in this repository. Do not commit plaintext work records or credentials.
+제출용 v1.2. GitHub Pages에서 별도 접근 키 없이 실행됩니다. 공개 데모입니다.
